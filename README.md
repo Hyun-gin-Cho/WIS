@@ -1,2 +1,8 @@
-# WIS
-Web Integration Server
+프로젝트 명 : WIS(Web Integration Server)
+
+프로젝트 기간 : 2022.04.25 ~ 
+
+개요 : front와 back을 쉽게 제작하게 하기 위하여 기획한 프로젝트입니다.
+혼자서 제작하고 있으니 부족한 부분이 있으면 알려주세요.
+
+
