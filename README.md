@@ -2,7 +2,12 @@
 
 프로젝트 기간 : 2022.04.25 ~ 
 
-개요 : front와 back을 쉽게 제작하게 하기 위하여 기획한 프로젝트입니다.
-혼자서 제작하고 있으니 부족한 부분이 있으면 알려주세요.
+개요 : adoby dreamweaver 같은 front 툴과 softwareAG webmethod 같은 back end 툴을 합친 형태의 web 개발 툴을 만들어 보고 싶어서 시작한 프로젝트 입니다.
+
+DB : mariaDB
+
+개발 툴 : eclipse, spring, ..
+
+개발 예시 링크 : 
 
 
